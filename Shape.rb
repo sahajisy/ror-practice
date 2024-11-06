@@ -1,0 +1,11 @@
+puts"Mike"
+puts "is just a name"
+print"Let's try a shape"
+print"is just a name"
+
+puts"     |"
+puts"    /|"
+puts"   / |"
+puts"  /  |"
+puts" /   |"
+puts"/____|"
