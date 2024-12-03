@@ -5,7 +5,7 @@ def remove_even_values(hash)
   end
 
   # Filter out keys for even values
-  hash.reject { |key, value| value.even? }
+  hash.reject { |key, value| value % 2 == 0 } #removed even function and added math function for even
 end
 
 input_hash = { "a": 1, "b": 2, "c": 3 }
