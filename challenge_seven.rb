@@ -15,4 +15,4 @@ while true
 end
 
 result = concat_strings(lines)
-puts result  # Output the concatenated string
+puts result  # Output of concatenated string
